@@ -15,8 +15,6 @@
 		- Richland, WA (PNNL)
 		- [link](https://pnnl.cvent.com/events/multiscale-microbial-dynamics-modeling-summer-school/event-summary-7706656ec1004be0ba368947c10c375b.aspx)
 2. Journal article sharing
-
-## Pre-meeting notes
-
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12691## Pre-meeting notes
 
 ## Post-meeting notes
